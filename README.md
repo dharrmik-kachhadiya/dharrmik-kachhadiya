@@ -31,12 +31,10 @@ I enjoy solving real-world problems through code and collaborating with cross-fu
 ## 💼 Work Experience
 
 ### Full Stack Developer — HMR Technology  
-**Aug 2020 – Present**
+**Aug 2020 – Aug 2022
 
-- Developing and maintaining production-grade web and mobile applications
-- Working across the full software development lifecycle
-- Collaborating with international teams to deliver scalable solutions
-- Contributing to architecture decisions, feature development, and performance improvements
+### Full Stack Developer — Triwards Technology  
+**Sept 2022 – Nov 2025
 
 **Key Projects**
 - Byte Craft 
