@@ -39,30 +39,8 @@ I enjoy solving real-world problems through code and collaborating with cross-fu
 - Contributing to architecture decisions, feature development, and performance improvements
 
 **Key Projects**
-- Coachvantage
-- Roadstr
-- Tradelife
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Coachvantage (Vue.js)
-**Website:** https://www.coachvantage.com  
-- Built core frontend modules using Vue.js
-- Developed **Coach Panel** for profile creation and service management
-- Developed **Client Panel** for discovering and booking coaching services
-- Worked closely with backend teams across different regions
-
----
-
-### 🏎 Roadstr (React.js & React Native)
-**Website:** https://www.roadstr.io  
-- Built a complete web and mobile solution for car racing events
-- Implemented real-time event timing and location-based features
-- Delivered a seamless experience across web and mobile platforms
-
----
+- Byte Craft 
+- Nuvista
 
 ## 🎯 What I Focus On
 - Writing clean, maintainable code
